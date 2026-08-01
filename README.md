@@ -8,7 +8,7 @@ I   | Completed | [Neural Networks and Deep Learning](https://www.coursera.org/l
 II  | Completed | [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) |
 III | Completed | [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) |
 IV  | Completed | [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) |
-V   | In Progress | [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) |
+V   | Completed | [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) |
 
 ---
 
