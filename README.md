@@ -9,6 +9,7 @@ II  | Completed | [Improving Deep Neural Networks: Hyperparameter Tuning, Regula
 III | Completed | [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) |
 IV  | Completed | [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) |
 V   | Completed | [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) |
+VI  | Completed | [AI Capstone Project with Deep Learning from IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Certificate](https://www.coursera.org/learn/ai-deep-learning-capstone?specialization=ibm-deep-learning-with-pytorch-keras-tensorflow) |
 
 ---
 
